@@ -116,10 +116,12 @@ ul {
 .dots-up {
     top:200px;
     right: 0;
+    z-index: 0;
 }
 .dots-down {
     bottom:200px;
     left: 0;
+    z-index: 0;
 }
 /* End Global Rules */
 /* Start commponents */
